@@ -1,9 +1,7 @@
 from pynput.keyboard import Controller, Key
 from time import sleep
-from gpiozero import *
 import RPi.GPIO as GPIO
 
-BUT_A = Button(9)
 GPIO.setup(17, GPIO.IN)
 
 
