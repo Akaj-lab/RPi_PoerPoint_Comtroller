@@ -20,4 +20,4 @@ Thats how you can controll PowerPoint presentation with RPi. Note that both RPi 
 
 Contributing
 ------------
-I would apriciate if you contribute to this priject. If you need any help send me message on vesoljec.jk@gmail.com
+I would apriciate if you contribute to this project. If you need any help send me message on vesoljec.jk@gmail.com
